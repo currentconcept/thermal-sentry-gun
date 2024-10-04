@@ -1,6 +1,6 @@
 # thermal-sentry-gun
 STL files for the thermal sentry gun that I made in my video
-Video: https://youtu.be/ZWraEt15bys
+https://youtu.be/ZWraEt15bys
 
 Here's a parts list that you need to get along with the printed pieces (not affiliated with any of these)
 - Arduino Uno (https://www.amazon.com/dp/B01EWOE0UU?ref=ppx_yo2ov_dt_b_fed_asin_title)
